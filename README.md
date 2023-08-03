@@ -1,16 +1,14 @@
-### Hi there 👋
+### Yep! I'm Sergio Díaz 👋
 
-<!--
-**dmsergio/dmsergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software backend developer living (and working) from Valencia :sunny::sunglasses:.
 
-Here are some ideas to get you started:
+I've been building [Odoo](https://odoo.com) (ERP) addons for six years. After that I decided to make a change, and right now I am working in some solutions built with [Django](https://www.djangoproject.com) and [FastAPI](https://fastapi.tiangolo.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a Python lover :heart::snake:, and everyday I try to learn more things related with this awesome programming language.
+
+:speech_balloon: You can contact me at:
+
+- Twiter as [@nowitz22](https://twitter.com/nowitz22)
+- GitHub as [dmsergio](https://github.com/dmsergio)
+- [LinkedIn](https://www.linkedin.com/in/sergio-d%C3%ADaz-mart%C3%ADnez-575245153)
