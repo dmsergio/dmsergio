@@ -7,8 +7,9 @@ I've been building [Odoo](https://odoo.com) (open source ERP) addons for six yea
 
 I'm a Python lover :heart::snake:, and everyday I try to learn more things related with this awesome programming language.
 
-:speech_balloon: You can contact me at:
+You can contact me at:
 
-- Twiter as [@nowitz22](https://twitter.com/nowitz22)
-- GitHub as [dmsergio](https://github.com/dmsergio)
-- [LinkedIn](https://www.linkedin.com/in/sergio-d%C3%ADaz-mart%C3%ADnez-575245153)
+- :incoming_envelope: [sergiodm.dev@gmail.com](mailto:sergiodm.dev@gmail.com)
+- :bird: Twiter as [@nowitz22](https://twitter.com/nowitz22)
+- :octocat: GitHub as [dmsergio](https://github.com/dmsergio)
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/sergio-d%C3%ADaz-mart%C3%ADnez-575245153)
