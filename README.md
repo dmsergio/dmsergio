@@ -1,8 +1,8 @@
-### Yep! I'm Sergio Díaz 👋
+### Hey! I'm Sergio Díaz 👋
 
-I'm a software backend developer living (and working) from Valencia, Spain :sunny::sunglasses:.
+I'm a software backend developer living (and working) in  Valencia, Spain :sunny::sunglasses:.
 
-I've been building [Odoo](https://odoo.com) (open source ERP) addons for six years. After that I decided to make a change, and right now I am working in some solutions built with [Django](https://www.djangoproject.com) and [FastAPI](https://fastapi.tiangolo.com).
+I've been building [Odoo](https://odoo.com) (ERP open source) addons for six years. After that I decided to make a change, and right now I'm working in some solutions built with [Django](https://www.djangoproject.com) and [FastAPI](https://fastapi.tiangolo.com).
 
 
 I'm a Python lover :heart::snake:, and everyday I try to learn more things related with this awesome programming language.
